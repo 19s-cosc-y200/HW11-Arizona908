@@ -9,7 +9,7 @@
 Inline:
 
 <p style="background-color: red; color:white;">
-
+should be in hex
 
 
 Embedded:
@@ -23,7 +23,8 @@ body{
 }
 
 </style>
-
+should be in hex
+missing background-color
 
 
 External style sheet:
@@ -37,7 +38,8 @@ body{
   font:Arial;
 
 }
-
+missing font list
+should be in hex
 
 
 
@@ -52,6 +54,7 @@ HTML and CSS class
 
 }
 
+include style tags
 
 
 <p class="new">
